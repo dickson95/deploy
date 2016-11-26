@@ -5,6 +5,7 @@ group :development do
 	gem 'capistrano-rails', '~> 1.1'
 	gem "capistrano-rvm"
 	gem "capistrano3-puma"
+  gem 'capistrano-bundler', '~> 1.2'
 end
 gem 'sshkit-sudo'
 

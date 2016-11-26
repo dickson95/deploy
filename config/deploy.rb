@@ -13,7 +13,7 @@ set :use_sudo, true
 
 # Default value for :scm is :git
 # set :scm, :git
-
+set :rvm_ruby_version, '2.3.1p112@deploy'
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
 
